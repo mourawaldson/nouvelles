@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 	<head>
 		<meta charset="utf-8">
+		<meta name="author" content="Waldson Moura" />
 		<title>Nouvelles</title>
 		<meta name="description" content="Nouvelles - Canada, en Français">
 		<meta name="viewport" content="width=device-width">
